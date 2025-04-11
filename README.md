@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Applications</b>
-  - AgBiz Logic: Measuring Environmental and Economic Trade-offs of Agricultural Chemicals
+  - [AgBiz Logic: Measuring Environmental and Economic Trade-offs of Agricultural Chemicals](https://github.com/Miguel-88/AgBizLogicShowcase2025/)
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
